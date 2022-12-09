@@ -1,6 +1,4 @@
-# day1
+# Hello Wold
 
-Working on flutter -- My first ever First flutter project 
-"Hello World" from 
+The beacon of start -- Hello World App using flutter
 
-~ quanta__guy
